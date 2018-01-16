@@ -1,0 +1,36 @@
+
+.container{
+  max-width: 60rem;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header{
+  width: 100%;
+  background-color: antiquewhite;
+  height: 100px;
+}
+
+nav{
+  background-color: beige;
+  width:100%;
+}
+
+main{
+  width: 70%;
+
+
+}
+
+aside{
+  width: 30%;
+
+}
+
+footer{
+  width: 100%;
+  background-color: antiquewhite;
+  height: 100px;
+
+}
